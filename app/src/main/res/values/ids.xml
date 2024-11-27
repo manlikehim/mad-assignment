@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="nav_calendar" type="id">calendar</item>
+    <item name="nav_calculator" type="id">calculator</item>
+    <item name="nav_converter" type="id">converter</item>
+    <item name="nav_flash_events" type="id">flash_events</item>
+</resources>

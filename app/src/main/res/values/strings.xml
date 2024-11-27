@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application assignment</string>
+    <string name="calendar">Calendar</string>
+    <string name="calculator">Calculator</string>
+    <string name="converter">Converter</string>
+    <string name="flash_events">Flash Events</string>
+</resources>
